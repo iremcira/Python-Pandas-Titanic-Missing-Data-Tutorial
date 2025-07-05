@@ -1,6 +1,14 @@
 # Python-Pandas-Titanic-Missing-Data-Tutorial 🔥
 
-![Project Overview Image: Example of a clean vs. missing data comparison or a powerful missingno matrix.](images/project_overview_image.png)
+ ********BEFORE CLEANING********
+
+![Project Overview Image: Example of a clean vs. missing data comparison or a powerful missingno matrix.](images/missing-data-output.png)
+
+
+ ********AFTER CLEANING********
+
+![Project Overview Image: Example of a clean vs. missing data comparison or a powerful missingno matrix.](images/clean-output.png)
+
 
 ## 🚀 Project Overview
 
